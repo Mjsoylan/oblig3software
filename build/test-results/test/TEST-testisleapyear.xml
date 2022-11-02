@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testisleapyear" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-11-02T18:43:03" hostname="EPICPC" time="0.015">
+  <properties/>
+  <testcase name="itsleapyearwhendivedby4andnot100()" classname="testisleapyear" time="0.013"/>
+  <testcase name="itsleapyearwhendivedby400()" classname="testisleapyear" time="0.0"/>
+  <testcase name="isnotleapyearwhennotdivedby4()" classname="testisleapyear" time="0.001"/>
+  <testcase name="isnotleapyearwhendivedby100butno400()" classname="testisleapyear" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
